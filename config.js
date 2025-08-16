@@ -10,7 +10,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
     
     // ===== BOT CORE SETTINGS =====
-    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~YLbtpbwODGQgbc8zWIM1",
+    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD;;;uZ0jFZoK#nNLK4GIn9RQ6LvDHQCyM54_X4nEHQByajiKapYJI7rk",
     PREFIX: process.env.PREFIX || ".",
     BOT_NAME: process.env.BOT_NAME || "SUBZERO-MD",
     MODE: process.env.MODE || "public",
@@ -18,7 +18,7 @@ module.exports = {
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254701714121",
     OWNER_NAME: process.env.OWNER_NAME || "Mr Frank",
     DEV: process.env.DEV || "263719647303",
     DEVELOPER_NUMBER: '263719647303@s.whatsapp.net',
